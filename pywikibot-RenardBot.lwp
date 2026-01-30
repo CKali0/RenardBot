@@ -1,0 +1,11 @@
+#LWP-Cookies-2.0
+Set-Cookie3: WMF-Last-Access="14-Jan-2026"; path="/"; domain="fr.wiktionary.org"; path_spec; secure; expires="2026-02-15 12:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: frwiktionarySession=eqe1fmbjohnhphjn2rh8eqi0uie0cle0; path="/"; domain="fr.wiktionary.org"; path_spec; secure; discard; HttpOnly=None; SameSite=None; version=0
+Set-Cookie3: loginnotify_prevlogins="2026-326kzn-bgch3fn45xr9m6qlkf031va65edn4u8"; path="/"; domain="fr.wiktionary.org"; path_spec; secure; expires="2026-07-13 14:33:41Z"; HttpOnly=None; version=0
+Set-Cookie3: NetworkProbeLimit="0.001"; path="/"; domain="fr.wiktionary.org"; path_spec; secure; expires="2026-01-14 15:33:38Z"; SameSite=None; version=0
+Set-Cookie3: frwiktionary_BPsession=cuttvkv73neir33n7enlbulh118om8eq; path="/"; domain="fr.wiktionary.org"; path_spec; secure; discard; HttpOnly=None; version=0
+Set-Cookie3: cpPosIndex="2%401768401220%23317c17000db84f1a92acdfaf6d95bd7e"; path="/"; domain="fr.wiktionary.org"; path_spec; secure; expires="2026-01-14 14:33:51Z"; HttpOnly=None; version=0
+Set-Cookie3: UseDC=master; path="/"; domain="fr.wiktionary.org"; path_spec; secure; expires="2026-01-14 14:33:51Z"; HttpOnly=None; version=0
+Set-Cookie3: WMF-Last-Access-Global="14-Jan-2026"; path="/"; domain=".wiktionary.org"; path_spec; domain_dot; secure; expires="2026-02-15 12:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: GeoIP="CH:FR:Fribourg:46.81:7.16:v4"; path="/"; domain=".wiktionary.org"; path_spec; domain_dot; secure; discard; version=0
+Set-Cookie3: WMF-Uniq="1ZB159LkvPyLl2mIzxjo-QJUABYSAFvdfESu1hpeks3tVbb2hcgfAax6U5gsOyyj"; path="/"; domain=".wiktionary.org"; path_spec; domain_dot; secure; expires="2027-01-13 00:00:00Z"; HttpOnly=None; SameSite=None; version=0

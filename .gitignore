@@ -1,0 +1,3 @@
+user-*.py
+__pycache__
+scraping/

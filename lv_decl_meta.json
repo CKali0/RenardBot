@@ -1,0 +1,7 @@
+{
+  "1-s":  { "vsMayDropEnding": true },
+  "5-s":  { "vsMayDropEnding": true },
+  "6-s":  { "vsMayDropEnding": true },
+  "2-as": { "vsMayDropEnding": false },
+  "3-us": { "vsMayDropEnding": false }
+}

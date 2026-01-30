@@ -1,0 +1,5 @@
+ho | ''Accusatif masculin animé singulier de'' , ''Génitif masculin singulier de'' , ''Génitif neutre singulier de''
+m | ''Locatif masculin singulier de'' , ''Instrumental masculin singulier de'' , ''Locatif neutre singulier de'' , ''Instrumental neutre singulier de'' , ''Datif pluriel de''
+mu | ''Datif masculin singulier de'' , ''Datif neutre singulier de''
+ch | ''Génitif pluriel de'' , ''Locatif pluriel de''
+mi | ''Instrumental pluriel de''

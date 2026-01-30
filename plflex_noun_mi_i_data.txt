@@ -1,0 +1,8 @@
+i | ''Nominatif pluriel de'' , ''Vocatif pluriel de'' , ''Accusatif pluriel de''
+u | ''Vocatif singulier de'' , ''Génitif singulier de'' , ''Locatif singulier de''
+ów | ''Génitif pluriel de''
+ach | ''Locatif pluriel de''
+owi | ''Datif singulier de''
+om | ''Datif pluriel de''
+iem | ''Instrumental singulier de''
+ami | ''Instrumental pluriel de''

@@ -1,0 +1,7 @@
+ého | ''Accusatif masculin animé singulier de'' , ''Génitif masculin singulier de'' , ''Génitif neutre singulier de''
+ém | ''Locatif masculin singulier de'' , ''Locatif neutre singulier de''
+ému | ''Datif masculin singulier de'' , ''Datif neutre singulier de''
+á | ''Nominatif féminin singulier de'' , ''Vocatif féminin singulier de'' , ''Nominatif neutre pluriel de'' , ''Vocatif neutre pluriel de'' , ''Accusatif neutre pluriel de''
+é | ''Nominatif neutre singulier de'' , ''Vocatif neutre singulier de'' , ''Accusatif neutre singulier de'' , ''Génitif féminin singulier de'' , ''Locatif féminin singulier de'' , ''Datif féminin singulier de'' , ''Nominatif masculin inanimé pluriel de'' , ''Nominatif féminin pluriel de'' , ''Vocatif masculin inanimé pluriel de'' , ''Vocatif féminin pluriel de'' , ''Accusatif masculin pluriel de'' , ''Accusatif féminin pluriel de''
+ch | ''Génitif pluriel de'' , ''Locatif pluriel de''
+mi | ''Instrumental pluriel de''
