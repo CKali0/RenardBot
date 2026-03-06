@@ -9,7 +9,7 @@ from pathlib import Path
 
 pwb._config.put_throttle = 0
 site = pwb.Site()
-testpage = pwb.Page(site, "lietotājs")
+testpage = pwb.Page(site, "uzraugs")
 
 # ---------- Data loaders ----------
 

@@ -8,7 +8,7 @@ site = pwb.Site()
 
 
 laterpages = pwb.Category(site, title='Catégorie:Adjectifs variables en japonais')
-testpage = pwb.Page(site, '狭苦しい')
+testpage = pwb.Page(site, '寂しい')
 filename = 'jpadjflexion_data.txt'
 kks = kks.kakasi()
 

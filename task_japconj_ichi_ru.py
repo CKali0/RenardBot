@@ -8,7 +8,7 @@ site = pwb.Site()
 
 
 laterpages = pwb.Category(site, title='Catégorie:Verbes godan en japonais')
-testpage = pwb.Page(site, '掛ける')
+testpage = pwb.Page(site, '始める')
 filename = 'japflexion_data_ichi_ru.txt'
 kks = kks.kakasi()
 

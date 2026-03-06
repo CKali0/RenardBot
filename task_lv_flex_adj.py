@@ -3,8 +3,6 @@ import wikitextparser as parser
 import pykakasi as kks
 import unicodedata
 
-from task_japconj_ru import suffixed_page
-
 pwb._config.put_throttle = 0
 site = pwb.Site()
 
@@ -64,7 +62,7 @@ def increment_counter(filename="lvadjflexcounter.txt"):
 
     return count
 
-page = pwb.Page(site, "antropoloģisks")
+page = pwb.Page(site, "fanātisks")
 ns = page.title()
 for line in page.text.splitlines():
     if line.startswith("{{lv-décl-adj-s") or line.startswith("{{lv-décl-adj-š"):
